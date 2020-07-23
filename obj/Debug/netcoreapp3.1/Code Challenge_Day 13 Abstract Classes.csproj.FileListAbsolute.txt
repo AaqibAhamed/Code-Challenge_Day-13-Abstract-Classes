@@ -1,0 +1,13 @@
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\bin\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.exe
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\bin\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.deps.json
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\bin\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.runtimeconfig.json
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\bin\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.runtimeconfig.dev.json
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\bin\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.dll
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\bin\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.pdb
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.csprojAssemblyReference.cache
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.AssemblyInfoInputs.cache
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.AssemblyInfo.cs
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.csproj.CoreCompileInputs.cache
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.dll
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.pdb
+I:\Coding Works\Code Challenges -HackerRank\Code Challenge_Day 13 Abstract Classes\obj\Debug\netcoreapp3.1\Code Challenge_Day 13 Abstract Classes.genruntimeconfig.cache
